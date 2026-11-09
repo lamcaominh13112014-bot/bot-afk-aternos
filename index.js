@@ -10,7 +10,7 @@ function startBot() {
         host: 'OrbitalSMP-Survival.aternos.me', // <-- Hãy thay bằng IP Aternos của bạn
         port: 61674,                           // <-- Hãy thay bằng số Port của server
         username: 'BotAFK_Render',             
-        version: '26.3',
+        version: '1.21',
         hideErrors: true                      // Ẩn các cảnh báo đọc lỗi gói tin không cần thiết
     });
 
