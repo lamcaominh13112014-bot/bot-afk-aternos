@@ -7,8 +7,8 @@ app.listen(process.env.PORT || 3000, () => console.log('Cổng Web đã mở.'))
 
 function startBot() {
     const bot = mineflayer.createBot({
-        host: 'OrbitalSMP-Survival.aternos.me', // <-- Hãy thay bằng IP Aternos của bạn
-        port: 61674,                           // <-- Hãy thay bằng số Port của server
+        host: 'OrbitalSMP-Survival.aternos.me', 
+        port: 55674,                           
         username: 'BotAFK_Render',             
         version: '1.21',
         hideErrors: true                      // Ẩn các cảnh báo đọc lỗi gói tin không cần thiết
